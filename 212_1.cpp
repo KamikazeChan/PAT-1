@@ -1,4 +1,8 @@
 //another version of 212
+/* sorted_list_intersection -- 2-12. 两个有序链表序列的交集
+ * by zhouyanbing
+ * see: http://pat.zju.edu.cn/contests/ds/2-12
+  */
 #include <stdio.h>
 #include <stdlib.h>
 
